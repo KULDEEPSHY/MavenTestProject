@@ -2,9 +2,9 @@ package com.calculator;
 
 import org.junit.*;
 
-#public class CalculatorTests {
+public class CalculatorTests {
     
-    #private Calculator calculator;
+    private Calculator calculator;
     
     @Before
     public void setUp() {
